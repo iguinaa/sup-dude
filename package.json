@@ -1,0 +1,25 @@
+{
+  "name": "sup-dude",
+  "version": "1.0.0",
+  "description": "second attempt at my theme music project",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "debug": "node --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iguinaa/sup-dude.git"
+  },
+  "author": "Andrew Iguina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iguinaa/sup-dude/issues"
+  },
+  "homepage": "https://github.com/iguinaa/sup-dude#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
